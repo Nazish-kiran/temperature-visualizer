@@ -1,0 +1,12 @@
+body {
+  height: 69vh;
+  background-color: #323140;
+  overflow: hidden;
+}
+h1:hover span {
+  cursor: pointer;
+  display: none;
+}
+h1:hover:before {
+  content: "28 F  ";
+}
